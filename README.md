@@ -83,3 +83,29 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+
+
+
+Steps : 
+1) creating new project via terminal
+2)creating new github repo and pushing this new project boiler plate
+3)creating a new brance for perticular operations
+4) creating schema for your project ( user and complaint)
+5)creating new resource for user
+6) performing crud operation of users in this resource 
+   a) in controller - create entrypoints
+   b)in service create functionalities of the endpoints written in controller
+   
+
+
+
+
+
+
+
+
+1)prisma migrate dev   -  for any updation in schema
+2)nest g resource users --no-spec   --- creating new resource ( controller , service and module file and avoid creating testing file )
+
+3)
